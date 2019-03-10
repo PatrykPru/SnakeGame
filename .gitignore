@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+*.filters
+*.user
+Debug
+Release
