@@ -1,2 +1,2 @@
 # SnakeGame
-Gra stworzona podczas zajęć informatyki, w celach naukowych.
+Gra stworzona podczas zajęć informatyki, w celach edukacyjnych.
